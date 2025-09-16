@@ -47,9 +47,9 @@ Future Enhancements
 
 * Peer-to-peer AI-moderated study groups.
 
-## output image
 
 ## Demo Video
 Watch our project demo here: [Click to Watch](PASTE_YOUR_LINK_HERE)
+## output image
 ![ Output image](output_image.png)
 
