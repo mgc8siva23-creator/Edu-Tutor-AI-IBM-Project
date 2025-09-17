@@ -8,7 +8,7 @@ Team Leader
 
 Team Members
 ->Jalil.R
-->Gunaseenan.M
+->Gunaseelan.M
 
 Overview
 
