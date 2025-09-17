@@ -1,13 +1,14 @@
 # Edu-Tutor-AI-IBM-Project
 
 Edu Tutor AI:Personalized Learning
+
 Team Leader
 ->Siva .R
 
 
 Team Members
-->Jalil
-->Gunaseenan
+->Jalil.R
+->Gunaseenan.M
 
 Overview
 
